@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\home\\globalazure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\home\\globalazure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|c:\\users\\benalaya.a\\onedrive\\achrafimportant\\native\\mypresentations\\globalazug\\tobeshared\\solutions\\hunterxhunterfrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC9AC27-598A-4341-9E13-058CFAD5B035}|hunterxhunterfrontend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:37:12.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalAzure.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\GlobalAzure.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GlobalAzure.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\GlobalAzure.cshtml",
+              "RelativeToolTip": "Views\\Home\\GlobalAzure.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:37:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:35:50.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:35:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:35:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:35:00.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T19:18:00.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T19:13:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T19:07:18.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T19:07:06.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:04:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:04:45.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

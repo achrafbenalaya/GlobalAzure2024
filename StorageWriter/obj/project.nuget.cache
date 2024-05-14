@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eueowG3S8oe2ygwVB50naWTGiMfWBDpYYxJLwT+qW8YygI45uwDc5K3hC5gu2rIrhsh70RzuksyFDJVemTNRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\githubSolution\\GloablAzure\\StorageWriter\\StorageWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

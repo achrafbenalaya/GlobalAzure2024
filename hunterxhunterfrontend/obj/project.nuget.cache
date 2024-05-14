@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBUGIlr0JPOFsU4TdE7ZOcqPNPSVmsh4+1FzF+y1P9+T33PQBKPMWQ9E7cNQ1k/OVgoo1cIBtU5xKmY95PuETA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benalaya.a\\OneDrive\\AchrafImportant\\NATIVE\\MyPresentations\\Globalazug\\ToBeShared\\solutions\\hunterxhunterfrontend\\hunterxhunterfrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\benalaya.a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
