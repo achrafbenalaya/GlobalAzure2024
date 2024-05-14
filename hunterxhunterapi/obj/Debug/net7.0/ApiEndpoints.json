@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "hunterxhunterapi.Controllers.CharactersController",
+    "Method": "GetAzureLocations",
+    "RelativePath": "api/Characters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
