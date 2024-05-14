@@ -4,11 +4,10 @@ This repository contains the following projects that were presented during the G
 
 
 ## Event 
+![Project 1 Architecture](./Pictures/azug.png)
+
 
 ## Project 1
-
-
-![Project 1 Architecture](./Pictures/azug.png)
 
 Description of project 1zure-search-openai-demo-csharp.
 
