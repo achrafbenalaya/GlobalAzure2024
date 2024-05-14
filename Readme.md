@@ -23,7 +23,7 @@ Description of project 2 hunterxhunterapi.
 
 ![Project 1 Architecture](./Pictures/backend.png)
 
-![Project 3 Architecture](./architectures/2.png)
+![Project 3 Architecture](./Architectures/2.png)
 
 
 
@@ -32,7 +32,7 @@ Description of project 2 hunterxhunterapi.
 Description of project 3 hunterxhunterfrontend.
 
 ![Project 1 Architecture](./Pictures/writer.png)
-![Project 3 Architecture](./architectures/10-1storage.png)
+![Project 3 Architecture](./Architectures/10-1storage.png)
 
 
 
@@ -42,7 +42,7 @@ Description of project 3 StorageWriter.
 
 ![Project 1 Architecture](./Pictures/readfile.png)
 
-![Project 3 Architecture](./architectures/10-1storage.png)
+![Project 3 Architecture](./Architectures/10-1storage.png)
 
 
 ## Test Tool :  locust 
